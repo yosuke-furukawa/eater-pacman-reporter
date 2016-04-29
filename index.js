@@ -63,7 +63,6 @@ class EaterPacmanReporter extends Reporter {
   }
 
   reportFailure(name) {
-    console.log(name);
     this.feeds.shift();
     this.progress++;
   }
