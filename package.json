@@ -1,0 +1,19 @@
+{
+  "name": "eater-pacman-reporter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "eater test/eater-pacman-reporter.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colo": "^0.3.2",
+    "eater": "^1.5.2"
+  }
+}
